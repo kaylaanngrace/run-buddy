@@ -71,7 +71,9 @@ footer a {
 }
 /* footer style end */
 
-
+section {
+    padding: 60px;
+}
 
 /* Hero Style Start */
 .hero {
@@ -125,26 +127,6 @@ footer a {
 }
 /* Hero Style End */
 
-section {
-    padding: 60px;
-}
-.primary-border {
-    border-color: #fce138;
-}
-
-.secondary-border {
-    border-color: #39a6b2;
-}
-
-.section-title { 
-    font-size: 55px;
-    color: #024e76;
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
-    border-bottom: 3px solid;
-    display: inline-block;
-}
-
 /* intro style */
 .intro {
     text-align: center;
@@ -188,6 +170,23 @@ section {
     font-size: 38px;
 }
 /* what-you-do end*/
+
+.section-title { 
+    font-size: 55px;
+    color: #024e76;
+    margin-bottom: 35px;
+    padding: 0 100px 20px 100px;
+    border-bottom: 3px solid;
+    display: inline-block;
+}
+
+.primary-border {
+    border-color: #fce138;
+}
+
+.secondary-border {
+    border-color: #39a6b2;
+}
 
 /* trainers style start */
 .trainers {
